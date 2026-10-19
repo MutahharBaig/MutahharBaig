@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-static.png">
-  <img src="assets/banner.gif" alt="Muhammad Mutahhar Baig — Electronics Engineer. Embedded systems, edge AI and signal processing." width="100%">
+  <img src="assets/banner.gif" alt="Muhammad Mutahhar Baig Electronics Engineer. Embedded systems, edge AI and signal processing." width="100%">
 </picture>
 
 <p align="center">
