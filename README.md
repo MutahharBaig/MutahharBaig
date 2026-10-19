@@ -1,55 +1,71 @@
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-static.png">
-  <img src="assets/banner.gif" alt="Muhammad Mutahhar Baig Electronics Engineer. Embedded systems, edge AI and signal processing." width="100%">
-</picture>
+<h1 align="center">Muhammad Mutahhar Baig</h1>
 
 <p align="center">
-  <a href="https://mutahharbaig.github.io/"><img src="assets/portfolio.svg" alt="View portfolio" width="180"></a>
-  <a href="https://www.linkedin.com/in/engr-muhammad-mutahhar-baig-91586a324/"><img src="assets/linkedin.svg" alt="LinkedIn" width="150"></a>
-  <a href="mailto:mutahharbaig215@gmail.com"><img src="assets/email.svg" alt="Email" width="130"></a>
+  <b>Embedded Systems & Edge AI Engineer</b><br>
+  Firmware · On-device ML · Signal Processing<br>
+  Islamabad, Pakistan
 </p>
 
-<br>
+<p align="center">
+  <a href="https://mutahharbaig.github.io/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/engr-muhammad-mutahhar-baig-91586a324/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mutahharbaig215@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-### From a trained model to a working device.
+---
 
-I’m **Mutahhar**, an Electronics Engineering graduate from **UET Taxila**, based in **Islamabad, Pakistan**. I build firmware, integrate sensors, and deploy machine-learning models on hardware with real compute and memory limits.
+### About
 
-My work spans **embedded audio, computer vision, and autonomous systems**—connecting C/C++ and Python with the physical world.
+I build firmware and deploy compressed ML models on hardware with tight compute, memory and power budgets, from ESP32-S3 audio devices and BLE wearables to Rockchip NPUs.
 
-<br>
+- Currently: **Embedded Systems & AI Engineer** at Khayal IncoTech
+- Studying: **MS Artificial Intelligence**, NUST (BS Electronics Engineering, UET Taxila)
+- Member: **IEEE** (Consumer Technology Society, EMBS)
+- Open to: relocation and international roles in embedded / edge AI
 
-<img src="assets/work.svg" alt="01 — Selected work" width="100%">
+### What I work on
 
-<a href="https://mutahharbaig.github.io/#projects"><img src="assets/rover.svg" alt="Agri-Rover: autonomous navigation, crop vision and embedded integration. First place, Electronics Engineering Open House 2025, UET Taxila." width="100%"></a>
+| Area | Details |
+|---|---|
+| **Firmware** | ESP32-S3, STM32, nRF52 (Zephyr), FreeRTOS, I2S audio, SD storage, BLE / Wi-Fi / MQTT, OTA with rollback, low-power design |
+| **Edge AI** | Quantization, pruning, TensorFlow Lite, ONNX, RKNN on RK3566 / RK3576 / RK3588 |
+| **Vision & audio** | OpenCV, MediaPipe, speech-to-text pipelines, sound classification |
+| **Biosignals** | PPG heart-rate, ECG / PCG analysis, digital stethoscope R&D |
 
-<a href="https://mutahharbaig.github.io/#projects"><img src="assets/nature.svg" alt="NatureScope: Rockchip model deployment, a camera-to-inference pipeline and touchscreen interaction." width="100%"></a>
+### Selected projects
 
-<a href="https://mutahharbaig.github.io/#projects"><img src="assets/audio.svg" alt="Embedded audio systems: ESP32-S3, FreeRTOS, I2S capture, SD storage and tactile device controls." width="100%"></a>
+| Project | What it is |
+|---|---|
+| **AI Agri-Rover** | Autonomous crop-management rover, >90% detection accuracy, GPS navigation, sensor fusion. Winner, Open House 2025; selected for All-Punjab Expo 2025 |
+| **NatureScope** | Pocket AI nature tutor on Rockchip: camera → vision-language model → spoken answer, plus birdsong ID and OCR on a touchscreen |
+| **ESP32-S3 Audio Systems** | I2S MEMS capture, SD storage, BLE + Wi-Fi Direct transfer, FreeRTOS multi-task firmware |
+| **Speech-to-Text Pipeline** | Whisper / Faster-Whisper behind a REST API, benchmarked against 8+ commercial STT services |
+| **Stress-Sensing Wristband** | ESP32 + MAX30102, HRV features from PPG |
+| **ECG Arrhythmia Detection** | MATLAB classifiers on ECG data ([repo](https://github.com/MutahharBaig/An-Automated-System-for-Arrhythmia-Detection-Using-Machine-Learning-Techniques-in-MATLAB-)) |
 
-<p align="right"><a href="https://mutahharbaig.github.io/#projects">More engineering work ↗</a></p>
+More on the [portfolio](https://mutahharbaig.github.io/#projects).
 
-<br>
+### Tech stack
 
-<img src="assets/stack.svg" alt="02 — Toolbox" width="100%">
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX">
+  <img src="https://img.shields.io/badge/Espressif-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP-IDF">
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/Zephyr-7E57C2?style=flat-square&logo=zephyrproject&logoColor=white" alt="Zephyr">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
 
-**Firmware & hardware**  
-`C / C++` `ESP32-S3` `STM32` `FreeRTOS` `ESP-IDF` `Raspberry Pi` `Pixhawk`
-
-**AI & computer vision**  
-`Python` `PyTorch` `TensorFlow` `OpenCV` `MediaPipe`
-
-**Model deployment**  
-`ONNX` `RKNN` `TensorFlow Lite` `Quantization` `RK3588`
-
-**Signals & systems**  
-`MATLAB` `ECG / PCG` `I2S audio` `Verilog` `Sensor integration`
-
-<br>
+**Also:** RKNN · TensorFlow Lite · FreeRTOS · STM32 · nRF Connect SDK · MediaPipe · Verilog · Pixhawk · MQTT
 
 ---
 
 <p align="center">
-  <b>Have a device, an idea, or an engineering challenge?</b><br><br>
-  <a href="https://www.linkedin.com/in/engr-muhammad-mutahhar-baig-91586a324/">Let’s talk ↗</a>
+  Have a device, an idea, or an engineering problem? <a href="https://www.linkedin.com/in/engr-muhammad-mutahhar-baig-91586a324/">Let's talk</a>.
 </p>
