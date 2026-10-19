@@ -1,71 +1,190 @@
-<h1 align="center">Muhammad Mutahhar Baig</h1>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F2937,100:FF6B4A&text=Mutahhar%20Baig&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Electronics%20Engineer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Edge%20AI&descSize=18&descAlignY=58&animation=fadeIn" alt="Mutahhar Baig">
 
-<p align="center">
-  <b>Embedded Systems & Edge AI Engineer</b><br>
-  Firmware · On-device ML · Signal Processing<br>
-  Islamabad, Pakistan
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://mutahharbaig.github.io/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/engr-muhammad-mutahhar-baig-91586a324/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mutahharbaig215@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<a href="https://github.com/MutahharBaig">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1600&color=FF6B4A&center=true&vCenter=true&width=720&height=40&lines=From+a+trained+model+to+a+working+device;Firmware+%C2%B7+Sensors+%C2%B7+On-device+ML;ESP32+%C2%B7+STM32+%C2%B7+nRF52+%C2%B7+Rockchip+NPU" alt="Typing intro">
+</a>
 
----
+<br><br>
 
-### About
+<a href="https://mutahharbaig.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-FF6B4A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>&nbsp;
+<a href="https://www.linkedin.com/in/engr-muhammad-mutahhar-baig-91586a324/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="mailto:mutahharbaig215@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-I build firmware and deploy compressed ML models on hardware with tight compute, memory and power budgets, from ESP32-S3 audio devices and BLE wearables to Rockchip NPUs.
+<br><br>
 
-- Currently: **Embedded Systems & AI Engineer** at Khayal IncoTech
-- Studying: **MS Artificial Intelligence**, NUST (BS Electronics Engineering, UET Taxila)
-- Member: **IEEE** (Consumer Technology Society, EMBS)
-- Open to: relocation and international roles in embedded / edge AI
+<img src="https://img.shields.io/badge/Status-Open_to_opportunities-2EA043?style=flat-square" alt="Status">
+<img src="https://img.shields.io/badge/Location-Islamabad,_Pakistan-1F2937?style=flat-square" alt="Location">
+<img src="https://img.shields.io/badge/Open_to-Relocation-FF6B4A?style=flat-square" alt="Relocation">
+<img src="https://img.shields.io/badge/IEEE-Student_Member-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE">
 
-### What I work on
+</div>
 
-| Area | Details |
+<br>
+
+## 👋 &nbsp;About
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+I build **firmware**, integrate **sensors**, and deploy **machine-learning models** on hardware with real compute, memory and power limits, from ESP32-S3 audio devices and BLE wearables to Rockchip NPUs.
+
+My work connects **C/C++ and Python** with the physical world: embedded audio, computer vision, biosignals and autonomous systems.
+
+</td>
+<td width="42%" valign="top">
+
+```yaml
+role:      Embedded Systems & AI Engineer
+company:   Khayal IncoTech
+studying:  MS Artificial Intelligence, NUST
+degree:    BS Electronics, UET Taxila (2025)
+focus:     [firmware, edge-ai, dsp]
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## ⚙️ &nbsp;What I Do
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center">
+
+**🔩 Firmware**<br><br>
+<sub>ESP32-S3 · STM32 · nRF52<br>FreeRTOS · Zephyr<br>BLE · Wi-Fi · MQTT<br>OTA with rollback</sub>
+
+</td>
+<td width="25%" valign="top" align="center">
+
+**🧠 Edge AI**<br><br>
+<sub>Quantization · Pruning<br>TensorFlow Lite · ONNX<br>RKNN on RK3566/76/88<br>NPU inference</sub>
+
+</td>
+<td width="25%" valign="top" align="center">
+
+**👁️ Vision & Audio**<br><br>
+<sub>OpenCV · MediaPipe<br>Speech-to-text<br>Sound classification<br>I2S capture & playback</sub>
+
+</td>
+<td width="25%" valign="top" align="center">
+
+**🫀 Biosignals**<br><br>
+<sub>PPG heart-rate<br>ECG / PCG analysis<br>Digital stethoscope R&D<br>HRV features</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🚀 &nbsp;Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 AI Agri-Rover
+`Pixhawk` `TensorFlow` `OpenCV` `Sensor Fusion`
+
+Autonomous crop-management rover with GPS navigation and **>90%** detection accuracy.
+
+🏆 **Winner, Open House 2025** · selected for All-Punjab Expo 2025
+
+</td>
+<td width="50%" valign="top">
+
+### 🦋 NatureScope
+`RK3588` `Vision-LLM` `STT/TTS` `OCR`
+
+Pocket AI nature tutor: camera → vision-language model → spoken answer, with birdsong ID and a touchscreen UI.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎧 ESP32-S3 Audio Systems
+`FreeRTOS` `I2S` `BLE` `Wi-Fi Direct`
+
+MEMS mic capture, SD storage, dual wireless transfer and interrupt-driven tactile controls.
+
+</td>
+<td width="50%" valign="top">
+
+### 🗣️ Speech-to-Text Pipeline
+`Whisper` `Faster-Whisper` `REST API`
+
+Production STT on Hugging Face Spaces, benchmarked against **8+** commercial services.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⌚ Stress-Sensing Wristband
+`ESP32` `MAX30102` `HRV`
+
+Wearable that estimates stress from PPG-derived heart-rate-variability features.
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 ECG Arrhythmia Detection
+`MATLAB` `ECG / DSP` `ML`
+
+Arrhythmia classification from ECG signals. [View repo →](https://github.com/MutahharBaig/An-Automated-System-for-Arrhythmia-Detection-Using-Machine-Learning-Techniques-in-MATLAB-)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**[See all 14 projects on the portfolio ↗](https://mutahharbaig.github.io/#projects)**
+
+</div>
+
+<br>
+
+## 🧰 &nbsp;Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,pytorch,tensorflow,opencv,arduino,raspberrypi,linux,git,vscode&perline=12" alt="Tech stack">
+
+</div>
+
+<br>
+
+<details>
+<summary><b>Full list of tools</b></summary>
+
+<br>
+
+| | |
 |---|---|
-| **Firmware** | ESP32-S3, STM32, nRF52 (Zephyr), FreeRTOS, I2S audio, SD storage, BLE / Wi-Fi / MQTT, OTA with rollback, low-power design |
-| **Edge AI** | Quantization, pruning, TensorFlow Lite, ONNX, RKNN on RK3566 / RK3576 / RK3588 |
-| **Vision & audio** | OpenCV, MediaPipe, speech-to-text pipelines, sound classification |
-| **Biosignals** | PPG heart-rate, ECG / PCG analysis, digital stethoscope R&D |
+| **Languages** | C, C++, Python, MATLAB, Verilog, SQL |
+| **AI / ML** | PyTorch, TensorFlow, TensorFlow Lite, OpenCV, MediaPipe, ONNX, RKNN |
+| **Platforms** | ESP32 / S3, STM32, CH32, nRF52, Raspberry Pi, Rockchip RK35xx, FPGA, Pixhawk |
+| **Embedded tools** | ESP-IDF, Zephyr / nRF Connect SDK, FreeRTOS, MounRiver Studio, Arduino IDE, J-Link |
+| **Connectivity** | BLE, Wi-Fi, MQTT, I2S, I2C, SPI, UART |
 
-### Selected projects
+</details>
 
-| Project | What it is |
-|---|---|
-| **AI Agri-Rover** | Autonomous crop-management rover, >90% detection accuracy, GPS navigation, sensor fusion. Winner, Open House 2025; selected for All-Punjab Expo 2025 |
-| **NatureScope** | Pocket AI nature tutor on Rockchip: camera → vision-language model → spoken answer, plus birdsong ID and OCR on a touchscreen |
-| **ESP32-S3 Audio Systems** | I2S MEMS capture, SD storage, BLE + Wi-Fi Direct transfer, FreeRTOS multi-task firmware |
-| **Speech-to-Text Pipeline** | Whisper / Faster-Whisper behind a REST API, benchmarked against 8+ commercial STT services |
-| **Stress-Sensing Wristband** | ESP32 + MAX30102, HRV features from PPG |
-| **ECG Arrhythmia Detection** | MATLAB classifiers on ECG data ([repo](https://github.com/MutahharBaig/An-Automated-System-for-Arrhythmia-Detection-Using-Machine-Learning-Techniques-in-MATLAB-)) |
+<br>
 
-More on the [portfolio](https://mutahharbaig.github.io/#projects).
+<div align="center">
 
-### Tech stack
+**Have a device, an idea, or an engineering challenge?**<br>
+**[Let's talk ↗](https://www.linkedin.com/in/engr-muhammad-mutahhar-baig-91586a324/)**
 
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX">
-  <img src="https://img.shields.io/badge/Espressif-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP-IDF">
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/Zephyr-7E57C2?style=flat-square&logo=zephyrproject&logoColor=white" alt="Zephyr">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-</p>
+</div>
 
-**Also:** RKNN · TensorFlow Lite · FreeRTOS · STM32 · nRF Connect SDK · MediaPipe · Verilog · Pixhawk · MQTT
-
----
-
-<p align="center">
-  Have a device, an idea, or an engineering problem? <a href="https://www.linkedin.com/in/engr-muhammad-mutahhar-baig-91586a324/">Let's talk</a>.
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:FF6B4A,50:1F2937,100:0D1117&section=footer" alt="">
