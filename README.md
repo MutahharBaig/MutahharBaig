@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F2937,100:FF6B4A&text=Mutahhar%20Baig&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Electronics%20Engineer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Edge%20AI&descSize=18&descAlignY=58&animation=fadeIn" alt="Mutahhar Baig">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F2937,100:FF6B4A&text=Mutahhar%20Baig&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Electronics%20Engineer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Edge%20AI&descSize=18&descAlignY=58&animation=fadeIn" alt="Muhammad Mutahhar Baig">
 
 <div align="center">
 
